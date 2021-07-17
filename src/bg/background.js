@@ -29,7 +29,7 @@ chrome.contextMenus.create({
         var bkg = chrome.extension.getBackgroundPage();
 
         var url = e.pageUrl;
-        var wikURL = "http://" + lang + ".wiktionary.org/wiki/";
+        var wikURL = "https://zh.wiktionary.org/zh-hans/";
 
         if (e.selectionText) {
             wikURL += encodeURI(e.selectionText);
