@@ -3,7 +3,7 @@
 //		 "sample_setting": "This is how you use Store.js to remember values"
 // });
 //example of using a message handler from the inject scripts
-var lang = zh;
+var lang = "zh";
 
 chrome.extension.onMessage.addListener(
     function(request, sender, sendResponse) {
