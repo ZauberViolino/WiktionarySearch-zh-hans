@@ -1,27 +1,27 @@
 {
   "name": {
-    "message": "Wiktionary Search"
+    "message": "维基词典搜索器（简体中文版）"
   },
   "desc": {
-    "message": "Look up words in Wiktionary.",
-    "description": "This extension allows you to perform a quick search on the Wiktionary."
+    "message": "在维基词典中查询词条",
+    "description": "本扩展程序能帮您快速地在维基词典中查询词条，并在中文（简体）模式下显示。"
   },
   "context": {
-    "message": "Search Wiktionary for ”%s”"
+    "message": "在维基词典中查询“%s”"
   },
   "popup": {
-    "message": "Search Wiktionary"
+    "message": "在维基词典中查询"
   },
   "opts_title": {
-    "message": "Options"
+    "message": "选项"
   },
   "opts_desc": {
-    "message": "Set your preferred language"
+    "message": "设置语言"
   },
   "iso": {
     "message": "zh"
   },
   "saved": {
-    "message": "Language setting saved"
+    "message": "语言设置成功"
   }
 }
