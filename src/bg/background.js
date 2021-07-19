@@ -37,6 +37,5 @@ chrome.contextMenus.create({
         chrome.tabs.create({
             "url": wikURL
         });
-
-    }
-});
+    });
+};
