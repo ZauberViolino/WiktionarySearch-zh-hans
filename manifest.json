@@ -1,6 +1,6 @@
 {
   "name": "__MSG_name__",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "manifest_version": 2,
   "description": "__MSG_desc__",
   "homepage_url": "https://github.com/32521amoy/WiktionarySearch-zh-hans/",
@@ -21,13 +21,9 @@
     "default_title": "Wiktionary Search zh-hans",
     "default_popup": "src/browser_action/browser_action.html"
   },
-  "options_ui": {
-    "page": "src/opt/options.html",
-    "chrome_style": true
-  },
   "permissions": [
     "contextMenus",
-    "*://zh.wiktionary.org/*",
+    "*://*.wiktionary.org/*",
 		"storage"
   ]
 }
