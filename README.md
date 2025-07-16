@@ -3,6 +3,9 @@
 > 
 > A Chrome extension to search the Chinese Wiktionary for a word.
 
+**Due to manifest v2 disabled on Chromium and richer sources in en.wikisource, this repository is archived.**
+<hr/>
+
 本扩展程序能帮您快速地在维基词典中查询词条，并在中文（简体）模式下显示。
 
 This extension allows you to perform a quick search on the Wiktionary, using simplified Chinese (zh-hans) variant.
